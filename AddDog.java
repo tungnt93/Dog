@@ -44,9 +44,6 @@ public class AddDog extends JFrame {
 
 		JPanel p1 = new JPanel(new FlowLayout(FlowLayout.CENTER));
 
-		// c.setLayout(new FlowLayout());
-		// JPanel pnCenter = new JPanel(new FlowLayout(FlowLayout.CENTER));
-		// pnCenter.setLayout(new FlowLayout());
 		JLabel lblName = new JLabel("Tên");
 		p1.add(lblName);
 		JTextField txtName = new JTextField(10);
