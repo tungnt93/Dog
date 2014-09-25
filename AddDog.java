@@ -96,8 +96,5 @@ public class AddDog extends JFrame {
 
 	}
 
-	// public static void main(String args[]){
-	// AddDog d = new AddDog("Thêm chó vào chuồng");
-	// d.setVisible(true);
-	// }
+
 }
