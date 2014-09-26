@@ -96,5 +96,9 @@ public class AddDog extends JFrame {
 
 	}
 
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> origin/master
 }
