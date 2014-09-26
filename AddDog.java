@@ -92,7 +92,6 @@ public class AddDog extends JFrame {
 		});
 
 		c.add(pane);
-		// c.add(pnCenter);
 
 	}
 
